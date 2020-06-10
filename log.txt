@@ -1,0 +1,78 @@
+
+Song Search Log---------------------------------------
+
+Song Name: Dragula
+
+Artist(s): Rob Zombie
+
+Album: Hellbilly Deluxe
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Dragula
+
+Artist(s): Rob Zombie
+
+Album: Hellbilly Deluxe
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: undefined
+
+IMDB Rating: undefined
+
+Country: undefined
+
+Language: undefined
+
+Plot: undefined
+
+Year: undefined
+
+Actors: undefined
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2018
+
+IMDB Rating: N/A
+
+Country: UK
+
+Language: English
+
+Plot: Ryan Nobody leaves behind a powerful message to the world after taking his own life.
+
+Year: 2018
+
+Actors: Nathan Hackett
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2009
+
+IMDB Rating: 7.8
+
+Country: Belgium, Germany, Canada, France, UK, Luxembourg
+
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Year: 2009
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-----------------------------------------
