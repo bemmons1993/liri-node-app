@@ -2,15 +2,12 @@ require("dotenv").config();
 
 var fs = require("fs");
 
-
 var mySpotify = require("./spotify.js");
 var myMovies = require("./movies.js");
 var myConcert = require("./concerts.js");
 
 var userCommand=process.argv[2];
 var userInput=process.argv.splice(3,process.argv.length).join(' ');
-
-
 
 switch (userCommand) { 
     case "help":
@@ -37,7 +34,6 @@ switch (userCommand) {
     default:
         console.log("LIRI doesn't understand that - Please type 'node liri.js help' for more information");
 };
-
 
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function(error, data) {

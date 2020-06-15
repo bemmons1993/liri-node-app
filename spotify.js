@@ -3,8 +3,6 @@ var keys = require("./keys");
 var spotify = new Spotify(keys.spotify);
 var fs = require("fs");
 
-
-
 function mySpotify(userInput) {
     var song = userInput;
     if (!song) {
@@ -29,6 +27,5 @@ function mySpotify(userInput) {
         fs.appendFileSync('log.txt', "\r\n" + "-------------------------------------------------------"+ "\r\n", 'utf8');
     });
     }
-
 
 module.exports = mySpotify;
